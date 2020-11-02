@@ -33,14 +33,14 @@ EXEDIR = $(IWPROGRAMMES)/bin/$(UNAME)
 LIB = -L $(IWPROGRAMMES)/lib/$(UNAME)
 # Define ZLIB to point to where zlib.a is located.  Need version 1.2.8 or higher
 # Example: ZLIB = /zlib/zlib-1.2.11/lib
-ZLIB =
+ZLIB =/zlib-1.2.11
 ifeq ($(ZLIB),)
     LIBZ = -lz
 else
     LIBZ = -L$(ZLIB) -lz
 endif
 
-EIGEN_INC = 
+EIGEN_INC =-I /eigen-3.3.8
 
 USRLIB=
 

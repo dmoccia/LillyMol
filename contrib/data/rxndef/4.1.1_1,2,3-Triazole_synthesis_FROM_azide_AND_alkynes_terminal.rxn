@@ -6,7 +6,7 @@
      (A I double_bond (1 2))
   )
   (1 Sidechain
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/alkynes_terminal.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/alkynes_terminal.qry")
      #(A C smarts "[CD1]#[CT0]-[CG0,c]")
      (A I double_bond (0 1))
      (A I join (0 0))

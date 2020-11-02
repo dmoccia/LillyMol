@@ -2,7 +2,7 @@
   (A C Comment "3.9.21_Alkyne_coupling_FROM_alkynes_terminal_AND_carboxylic_acids")
   (0 Scaffold
      #(A C smarts "[CD1]#[CT0]-[CG0,c]")
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/alkynes_terminal.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/alkynes_terminal.qry")
   )
   (1 Sidechain
      #(A C smarts "[C](=O)([OH])") 

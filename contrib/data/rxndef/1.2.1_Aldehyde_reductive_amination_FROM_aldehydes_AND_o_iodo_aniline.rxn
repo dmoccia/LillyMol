@@ -5,7 +5,7 @@
      (A I remove_atom 0)
   )
   (1 Sidechain
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/o_iodo_aniline.qry")     
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/o_iodo_aniline.qry")     
      (A I join (1 0))
   )
 )

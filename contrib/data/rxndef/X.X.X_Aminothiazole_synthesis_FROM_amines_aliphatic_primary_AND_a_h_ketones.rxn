@@ -4,7 +4,7 @@
      (A C smarts "[ND1H2]-[CX4]")
   )
   (1 Sidechain
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/a_h_ketones.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/a_h_ketones.qry")
      (A I remove_atom 0)
      (A I double_bond (1 3))
   )

@@ -4,7 +4,7 @@
      (A C smarts "[ND1H]=[CD3T3]([NHT0]([$([cT1]),$([CT1X4])]))[NT0]([$([cT1]),$([CT1X4])])([$([cT1]),$([CT1X4])])")
   )
   (1 Sidechain
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/a_h_ketones.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/a_h_ketones.qry")
      (A I remove_atom 0)
      (A I join (0 1))
      (A I join (2 3))

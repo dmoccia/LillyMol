@@ -2,7 +2,7 @@
   (A C Comment "4.1.48_Pyrimidine_synthesis_FROM_guanidines_sectert_primary_AND_ynones")
   (0 Scaffold
      #(A C smarts "[ND1H]=[CD3T3]([NH2])[NHT0]([$([cT1]),$([CT1X4])])")
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/guanidines_sectert_primary.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/guanidines_sectert_primary.qry")
   )
   (1 Sidechain
      (A C smarts "O=C([$(c),$([CX4]),$(C~[!#6])])C#C([$(H),$(c),$([CX4]),$(C~[!#6])])") 

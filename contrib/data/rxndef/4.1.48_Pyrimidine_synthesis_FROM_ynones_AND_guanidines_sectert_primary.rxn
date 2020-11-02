@@ -7,7 +7,7 @@
   )
   (1 Sidechain
      #(A C smarts "[ND1H]=[CD3T3]([NH2])[NHT0]([$([cT1]),$([CT1X4])])")
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/guanidines_sectert_primary.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/guanidines_sectert_primary.qry")
      (A I join (1 2 2))
      (A I join (4 0))
   )

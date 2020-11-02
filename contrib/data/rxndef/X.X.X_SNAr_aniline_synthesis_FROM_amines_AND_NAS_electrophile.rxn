@@ -4,7 +4,7 @@
      (A C smarts "[ND1H2]-[CX4]||[ND2H]([CX4])[CX4]||[ND1H2]-a||[ND2H]([CX4])-a")
   )
   (1 Sidechain
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/NAS_electrophile.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/NAS_electrophile.qry")
      (A I remove_atom 0)
      (A I join (0 1))
   )

@@ -5,7 +5,7 @@
      (A I remove_atom 0)
   )
   (1 Sidechain
-     (A C query_file "/lrlhps/users/c3tk/repo/gc3tk/c3tk-core/data/queries/functional_groups/boronics.qry")
+     (A C query_file "//LillyMol/contrib/data/queries/functional_groups/boronics.qry")
      (A I break_bond (0 1))
      (A I remove_fragment 0)
      (A I join (1 1))
